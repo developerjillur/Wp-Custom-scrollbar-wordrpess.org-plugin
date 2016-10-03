@@ -1,0 +1,27 @@
+.wrap.custom_container {
+  background: none repeat scroll 0 0 #fafafa;
+  border: 4px solid #ccc;
+  border-radius: 5px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 15px;
+}
+.custom_container #message.my_cusstom_update_style {
+  background: none repeat scroll 0 0 #3f9ddd;
+  border-left: 6px solid #39d179;
+  color: #fff;
+}
+.custom_container #message.my_cusstom_update_style p{
+	font-size: 13px;
+}
+.custom_container .custom_register_default{
+	-webkit-transition: all .2s ease;
+	-o-transition: all .2s ease;
+	transition: all .2s ease;
+}
+.custom_container .custom_register_default:hover {
+  background: #c0392b;
+  border: 1px solid #c0392b;
+  color: #fff;
+}
